@@ -63,5 +63,10 @@ $\implies$ Simalirity $\propto$ values corrospanding to the two movies in the ma
 
 We will sort the list similar_movies according to similarity scores in descending order. Since the most similar movie to a given movie will be itself, we will discard the first element after sorting the movies.
 
+## License
+
+***
+This software has been released under the [MIT Licence](LICENSE)
+
 
 
